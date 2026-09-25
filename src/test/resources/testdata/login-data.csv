@@ -1,0 +1,4 @@
+username,password
+john.doe,password123
+jane.smith,wrongpass
+invalid_user,nopassword

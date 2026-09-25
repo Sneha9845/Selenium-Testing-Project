@@ -1,0 +1,39 @@
+# Build output & compiled files
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs & Editor files
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+.nbdefs
+.nb-configuration.xml
+
+# Environment & Credentials / Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.crt
+*credential*
+*secret*
+*password*
+
+# Logs & Diagnostics
+logs/
+*.log
+
+# Reports & Test Output
+reports/
+test-output/
+
+# OS metadata
+.DS_Store
+Thumbs.db
